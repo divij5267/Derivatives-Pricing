@@ -1,4 +1,4 @@
-# Derivatives\-Pricing\-Models
+# Derivatives\Pricing\Models
 
 # Introduction:
 

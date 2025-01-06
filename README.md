@@ -11,8 +11,11 @@ This repository contains a collection of projects related to derivatives pricing
 # Technologies Used:
 
 Programming Languages: Python, R
+
 Libraries:
 Python: NumPy, SciPy, Pandas, Matplotlib, Seaborn, Plotly, scikit-learn (for optimization)
 R: 
+
 Version Control: Git
+
 Other Tools: Jupyter Notebook (for interactive exploration and documentation)

@@ -1,4 +1,4 @@
-<h0>Derivatives Pricing Models</h0>
+<h1 style="text-decoration: none;"><span style="text-decoration: underline;">Derivatives Pricing Models</span></h1>
 
 # Introduction:
 

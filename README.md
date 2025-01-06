@@ -26,7 +26,7 @@ Other Tools: Jupyter Notebook (for interactive exploration and documentation)
 
 ## About Me:
 
-I am a [Your Current Status: e.g., recent graduate, aspiring quant, career changer] with a strong interest in quantitative finance and derivatives pricing. I am passionate about using my analytical and programming skills to solve complex problems in the financial markets. I am currently seeking opportunities in [Target Roles: e.g., quantitative research, quantitative development, risk management] where I can contribute my skills and continue to learn and grow. My background is in [Your Background: e.g., mathematics, statistics, computer science, finance].
+I am a currently pursuing my  Master's in Quantitative Management: Business Analytics at Duke's Fuqua School of Business with a strong interest in quantitative finance and applied Data Science. I am fervent about applying data science to unlock insights and drive performance in financial markets. I am currently seeking opportunities in Quantitative Finance & Data Science in Finance where I can contribute my skills and continue to learn and grow. 
 
 ## Contact:
 

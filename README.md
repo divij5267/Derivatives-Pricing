@@ -14,6 +14,7 @@ Programming Languages: Python, R
 
 Libraries:
 Python: NumPy, SciPy, Pandas, Matplotlib, Seaborn, Plotly, scikit-learn (for optimization)
+
 R: 
 
 Version Control: Git

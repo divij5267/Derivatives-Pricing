@@ -24,6 +24,8 @@ Other Tools: Jupyter Notebook (for interactive exploration and documentation)
 
 ## Future Work/Roadmap:
 
+(This section will be updated as I progress.)
+
 ## About Me:
 
 I am a currently pursuing my  Master's in Quantitative Management: Business Analytics at Duke's Fuqua School of Business with a strong interest in quantitative finance and applied Data Science. I am fervent about applying data science to unlock insights and drive performance in financial markets. I am currently seeking opportunities in Quantitative Finance & Data Science in Finance where I can contribute my skills and continue to learn and grow. 
